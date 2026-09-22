@@ -185,3 +185,13 @@ php -l app/Http/Controllers/AdminController.php  # lint a single file
 ## License
 
 MIT (Laravel's default license). This is an internal company tool; no external distribution planned.
+
+
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/f65d64a6-3d70-4c4b-b6a7-315a271e34a4" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/dd92334f-17be-4464-9e0a-be8931d664b9" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/56e63556-4f13-4b8c-b1b0-229b7e3292b1" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/51ee2e15-3dd5-4136-a250-c9bee86b0923" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/04d22e6a-468c-4101-93f0-f4c71772da44" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/b076b38a-93e5-41b6-8d25-3c24eb8c15de" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/f89e79b3-5a7c-4a65-95a9-62ab4398fcf9" />
+
